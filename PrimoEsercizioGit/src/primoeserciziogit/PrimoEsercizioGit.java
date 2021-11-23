@@ -15,8 +15,12 @@ public class PrimoEsercizioGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ciao");
+        System.out.println("inserisci il primo valore: ");
         
+        System.out.println("inserisci il primo valore: ");
+
+         System.out.println("Somma = ");
+
     }
     
 }
